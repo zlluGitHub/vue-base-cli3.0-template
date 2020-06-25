@@ -4,7 +4,6 @@
     <HelloWorld msg="前端自动化部署平台（自动化测试）"/>
   </div>
 </template>
-
 <script>
 import HelloWorld from './components/HelloWorld.vue'
 export default {
