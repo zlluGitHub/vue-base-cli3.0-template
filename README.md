@@ -1,4 +1,4 @@
-# vue-base-cli3.0-template
+# vue-flow-topology
 
 ## Project setup
 ```
